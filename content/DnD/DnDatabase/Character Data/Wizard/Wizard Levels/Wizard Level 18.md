@@ -1,0 +1,14 @@
+---
+publish: true
+created: 2026-09-07T04:23:37.734Z
+modified: 2026-09-07T06:04:46.147Z
+---
+
+### Spell Mastery
+
+You have achieved such mastery over certain spells that you can cast them at will. Choose a level 1 and a level 2 spell in your spellbook that have a casting time of an action. You always have those spells prepared, and you can cast them at their lowest level without expending a spell slot. To cast either spell at a higher level, you must expend a spell slot.
+
+Whenever you finish a Long Rest, you can study your spellbook and replace one of those spells with an eligible spell of the same level from the book.
+#Wizard
+#Wizard-Levels
+#Character-Data
